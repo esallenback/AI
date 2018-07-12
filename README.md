@@ -1,1 +1,1 @@
-# AI_1.0
+# This is a project to practice using machine learning
